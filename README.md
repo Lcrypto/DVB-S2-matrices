@@ -7,3 +7,4 @@ Matlab tools to convert matrices defined in standard to parity check matrix or Q
 * **parityDVB_to_QC.m** : Convert from parity H from DVB-S2_to_parity.m to a reordered Quasic cyclic parity check matrix
 * **parity_to_alist.m** : Convert parity matrix to alist format
 * **parity_to_DVBS2.m** : Convert from DVB-S2 like H matrix to a table as in DVB-S2 standard
+* **getchecknodetable.m** : Description of parity-check matrix from DVB-S2 standard
